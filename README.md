@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Breann Bricketto
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I learned how to display a gallery of images that the user could scroll through
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://breannbricketto.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to script the DOM with javascript.
+2. I learned about DHTML and how to use it.
+3. I learned how to display a photo gallery that you can scroll through
